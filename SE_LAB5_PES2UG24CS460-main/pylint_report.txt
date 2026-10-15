@@ -1,0 +1,6 @@
+﻿************* Module bike_share_stations
+bike_share_stations.py:81:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.74/10 (previous run: 9.74/10, +0.00)
+
